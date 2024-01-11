@@ -1,0 +1,12 @@
+{
+  "dataVariationFileInfo": [
+    {
+      "filePath": ".variations\\Data_Data.json",
+      "dataVariationType": "File"
+    },
+    {
+      "filePath": ".variations\\RAJ.json",
+      "dataVariationType": "Entity"
+    }
+  ]
+}
